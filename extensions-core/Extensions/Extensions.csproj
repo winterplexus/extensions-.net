@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>Code Construct System</Authors>
+        <Company>Code Construct System</Company>
+        <Product>Extensions</Product>
+        <Description>Extensions library</Description>
+        <Copyright>Copyright © 2025 Code Construct System</Copyright>
+        <AssemblyName>Extensions</AssemblyName>
+        <RootNamespace>Extensions</RootNamespace>
+        <EnableNETAnalyzers>true</EnableNETAnalyzers>
+        <AnalysisMode>AllEnabledByDefault</AnalysisMode>
+        <AnalysisLevel>latest</AnalysisLevel>
+        <Version>1.0.0.0</Version>
+    </PropertyGroup>
+
+</Project>
